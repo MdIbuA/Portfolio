@@ -100,10 +100,6 @@ Automated ETL pipelines ingest multi-source data for **continuous model retraini
   height="165"
 />
 
-<img
-  src="https://streak-stats.demolab.com?user=MdIbuA&theme=tokyonight&hide_border=true"
-  height="165"
-/>
 
 </div>
 
