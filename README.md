@@ -56,46 +56,41 @@ I'm a passionate developer dedicated to creating elegant solutions to complex pr
 
 ---
 
-## 📂 Featured Projects
+## 📂 Selected Works
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎨 Project One</h3>
-      <p>A brief description of your first project. Highlight the technologies used and the problem it solves.</p>
-      <p>
-        <strong>Tech Stack:</strong> React, Node.js, MongoDB<br>
-        <a href="https://github.com/MdIbuA/project-one">View Repository →</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚀 Project Two</h3>
-      <p>A brief description of your second project. Explain the impact and key features.</p>
-      <p>
-        <strong>Tech Stack:</strong> Vue.js, Express.js, PostgreSQL<br>
-        <a href="https://github.com/MdIbuA/project-two">View Repository →</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💼 Project Three</h3>
-      <p>A brief description of your third project. Share what you learned from building it.</p>
-      <p>
-        <strong>Tech Stack:</strong> Python, Django, MySQL<br>
-        <a href="https://github.com/MdIbuA/project-three">View Repository →</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔧 Project Four</h3>
-      <p>A brief description of your fourth project. Mention any notable achievements or metrics.</p>
-      <p>
-        <strong>Tech Stack:</strong> Next.js, TypeScript, Firebase<br>
-        <a href="https://github.com/MdIbuA/project-four">View Repository →</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 01. Crisis Response Coordinator  
+**AI-Powered Emergency Triage System**
+
+AI-powered backend system using **RAG (Retrieval-Augmented Generation)** to fetch safety protocols instantly.  
+**Reduced operator decision time by 40%** through real-time emergency data processing.
+
+**Key Features**
+- Real-time data streams  
+- Automated resource allocation  
+- High-availability architecture  
+
+**Tech Stack**  
+`Python` · `LangChain` · `FastAPI` · `Docker`
+
+🔗 **Demo:** https://youtu.be/Vp-1W_Ry3mM
+
+---
+
+### 02. Crypto Forecasting Engine  
+**Time-Series Financial Prediction**
+
+LSTM-based deep learning model for cryptocurrency market prediction.  
+Automated ETL pipelines ingest multi-source data for **continuous model retraining** and improved accuracy.
+
+**Key Features**
+- LSTM neural networks  
+- Automated ETL pipelines  
+- Live market data feeds  
+
+**Tech Stack**  
+`TensorFlow` · `Airflow` · `Python` · `AWS S3`
+
+🔗 **Source Code:** https://github.com/MdIbuA/CryptoPulse
 
 ---
 
@@ -137,10 +132,11 @@ Coming soon! Check back for insights on web development, best practices, and tec
 
 I'm always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out!
 
+
 <div align="center">
   <p><strong>📧 Email:</strong> 2005mohamedibrahim@gmail.com</p>
-  <p><strong>💼 LinkedIn:</strong> <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamedibrahimbinabdullah)"> </a></p>
-  <p><strong>🌐 Portfolio Website:</strong> <a href="[https://your-portfolio.com](https://mdibua.github.io/Portfolio/)"> </a></p>
+  <p><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamedibrahimbinabdullah">Visit Profile</a></p>
+  <p><strong>🌐 Portfolio Website:</strong> <a href="https://mdibua.github.io/Portfolio/">Visit Website</a></p>
 </div>
 
 ---
