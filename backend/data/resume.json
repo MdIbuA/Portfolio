@@ -1,0 +1,277 @@
+{
+    "personal_info": {
+        "name": "Mohamed Ibrahim A",
+        "location": "Coimbatore, Tamil Nadu, India",
+        "phone": "+91 7449095694",
+        "email": "2005mohamedibrahim@gmail.com",
+        "github": "MdIbuA",
+        "linkedin": "mohamedibrahimbinabdullah"
+    },
+    "summary": "Software Development Engineer candidate with strong foundations in backend systems, data pipelines, and scalable architectures. Hands-on experience designing reliable, API-driven systems and AI-powered decision platforms on AWS and Google Cloud Platform, with a focus on correctness, performance, and first-principles thinking.",
+    "skills": {
+        "programming_languages": [
+            "Python",
+            "Java",
+            "C"
+        ],
+        "backend_and_systems": [
+            "REST APIs",
+            "Backend Business Logic",
+            "Authentication Flows",
+            "API Integrations"
+        ],
+        "data_and_scale": [
+            "Data Pipelines",
+            "ETL",
+            "BigQuery",
+            "Distributed Data Processing"
+        ],
+        "ai_and_intelligence": [
+            "Machine Learning",
+            "NLP",
+            "RAG Systems",
+            "Time-Series Forecasting"
+        ],
+        "infrastructure_and_tools": [
+            "Docker",
+            "CI/CD",
+            "Git"
+        ],
+        "cloud_platforms": [
+            "AWS",
+            "Google Cloud Platform (hands-on)",
+            "Oracle Cloud Infrastructure (foundational exposure)"
+        ],
+        "core_cs": [
+            "Data Structures & Algorithms",
+            "System Design Fundamentals",
+            "Performance Optimization"
+        ]
+    },
+    "experience": [
+        {
+            "title": "AI Intern",
+            "company": "Infosys Springboard",
+            "duration": "Nov 2025 – Jan 2026",
+            "responsibilities": [
+                "Built end-to-end, production-oriented ML pipelines on AWS/GCP handling data ingestion, transformation, model training, and inference",
+                "Designed reliable workflows emphasizing correctness, reproducibility, and scalable deployment",
+                "Collaborated on real-world problem statements following SDLC and engineering best practices"
+            ]
+        },
+        {
+            "title": "MERN Stack Developer Intern",
+            "company": "Edunet Foundation",
+            "duration": "Feb 2025 – Apr 2025",
+            "responsibilities": [
+                "Developed backend services using RESTful APIs to support scalable web applications",
+                "Implemented secure authentication and optimized database interactions, improving response latency",
+                "Delivered modular, maintainable backend logic aligned with production standards"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "AI-Powered Crisis Response Coordinator",
+            "description": "Designed a real-time backend system for emergency triage and automated resource allocation",
+            "highlights": [
+                "Implemented Retrieval-Augmented Generation (RAG) for accurate protocol retrieval",
+                "Reduced response time by ~40% through intelligent routing and workflow automation"
+            ],
+            "technologies": [
+                "Python",
+                "RAG",
+                "Real-time Systems",
+                "Backend Architecture"
+            ]
+        },
+        {
+            "name": "Cryptocurrency Price Forecasting System",
+            "description": "Designed a time-series forecasting system using LSTM models",
+            "highlights": [
+                "Built automated data pipelines processing multi-source market data and technical indicators",
+                "Enabled continuous model retraining and performance monitoring for reliable predictions",
+                "Developed as part of the Infosys Springboard Internship in AI & Machine Learning (UI design module)"
+            ],
+            "technologies": [
+                "Python",
+                "LSTM",
+                "Time-Series Analysis",
+                "Data Pipelines",
+                "ML"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech – Information Technology",
+            "institution": "Sri Ramakrishna Engineering College",
+            "duration": "2023 – 2027",
+            "cgpa": "7.83 (up to 5th Semester)"
+        },
+        {
+            "degree": "Higher Secondary Education (PCMB)",
+            "institution": "Darussalam Higher Secondary School",
+            "year": "2022",
+            "percentage": "91.83%"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Software Engineer Intern Certificate",
+            "issuer": "HackerRank",
+            "date": "Feb 2026"
+        },
+        {
+            "name": "Postman API Fundamentals Student Expert",
+            "issuer": "Postman",
+            "date": "Jan 2026",
+            "credential_id": "6958b3a8a420c936fa8596f0"
+        },
+        {
+            "name": "5-Day AI Agents Intensive Course with Google",
+            "issuer": "Kaggle",
+            "date": "Dec 2025",
+            "skills": [
+                "AI Agents"
+            ]
+        },
+        {
+            "name": "SnowPro Associate: Platform Certification",
+            "issuer": "Snowflake",
+            "date": "Nov 2025",
+            "expires": "Nov 2027",
+            "credential_id": "165697706"
+        },
+        {
+            "name": "Oracle APEX Cloud Certified Developer Professional",
+            "issuer": "Oracle",
+            "date": "Oct 2025",
+            "credential_id": "322178663APEX24CDOCP"
+        },
+        {
+            "name": "Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate",
+            "issuer": "Oracle",
+            "date": "Oct 2025"
+        },
+        {
+            "name": "Certificate of Participation in Treasure Hunt of TVS Credit E.P.I.C 7.0 — IT Challenge",
+            "issuer": "Unstop",
+            "date": "Oct 2025",
+            "credential_id": "ee4aad77-a1c1-423c-9ab7-869f336157a8"
+        },
+        {
+            "name": "Google Cloud Study Jams - 2025 (Top Performer)",
+            "issuer": "Google",
+            "date": "Sep 2025",
+            "credential_id": "ab9bcd21-f02c-44eb-a5c8-64f3388c879b",
+            "note": "Top Performer Certificate from GDG on Campus SPEC"
+        },
+        {
+            "name": "Oracle Fusion AI Agent Studio Certified Foundations Associate - Rel 1",
+            "issuer": "Oracle",
+            "date": "Sep 2025",
+            "credential_id": "322178663OFAASOFA"
+        },
+        {
+            "name": "Generative AI Overview for Project Managers",
+            "issuer": "Project Management Institute",
+            "date": "Sep 2025"
+        },
+        {
+            "name": "Rising Star - Technical",
+            "issuer": "Celonis",
+            "date": "Sep 2025",
+            "skills": [
+                "Leadership"
+            ]
+        },
+        {
+            "name": "Academic Process Mining Fundamentals",
+            "issuer": "Celonis",
+            "date": "Sep 2025"
+        },
+        {
+            "name": "Celonis Foundations",
+            "issuer": "Celonis",
+            "date": "Aug 2025"
+        },
+        {
+            "name": "Robotic Process Automation (RPA)",
+            "issuer": "NIELIT-India",
+            "date": "Jul 2025"
+        },
+        {
+            "name": "Certificate of Participation in Round 1 - Online MCQ Assessment Coding of Adobe India Hackathon",
+            "issuer": "Unstop",
+            "date": "Jun 2025",
+            "credential_id": "efe8362a-d3f4-45b0-a72f-af2cbc4662d9"
+        },
+        {
+            "name": "CRUD Operations in MongoDB",
+            "issuer": "MongoDB",
+            "date": "Jun 2025",
+            "credential_id": "MDBtfhplbivao",
+            "skills": [
+                "SQL"
+            ]
+        },
+        {
+            "name": "MongoDB Basics for Students",
+            "issuer": "MongoDB",
+            "date": "Jun 2025"
+        },
+        {
+            "name": "Principles of Generative AI",
+            "issuer": "Infosys Springboard",
+            "date": "Jun 2025",
+            "skills": [
+                "Generative AI",
+                "LLMs",
+                "Prompt Engineering"
+            ]
+        },
+        {
+            "name": "Artificial intelligence primer certification",
+            "issuer": "Infosys Springboard",
+            "date": "Jun 2025",
+            "skills": [
+                "Machine Learning",
+                "AI"
+            ]
+        },
+        {
+            "name": "Python",
+            "issuer": "IIT Bombay",
+            "date": "Mar 2025",
+            "skills": [
+                "Data Science",
+                "Python"
+            ]
+        },
+        {
+            "name": "Practical GitHub Project Management and Collaboration",
+            "issuer": "LinkedIn",
+            "date": "Mar 2025",
+            "skills": [
+                "DevOps",
+                "GitHub"
+            ]
+        },
+        {
+            "name": "Prompt Engineering",
+            "issuer": "Dubai Future Foundation",
+            "date": "Jan 2025"
+        },
+        {
+            "name": "Introduction to industry 4.0",
+            "issuer": "NPTEL",
+            "date": "Nov 2024"
+        },
+        {
+            "name": "IBM Qiskit",
+            "issuer": "IBM",
+            "note": "Quantum Computing"
+        }
+    ]
+}

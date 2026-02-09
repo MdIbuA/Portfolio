@@ -1,0 +1,14 @@
+tunnel: <YOUR-TUNNEL-UUID>
+credentials-file: C:\Users\MOHAMED IBRAHIM A\.cloudflared\<YOUR-TUNNEL-UUID>.json
+
+ingress:
+  # Backend API Service
+  - hostname: api.yourdomain.com
+    service: http://localhost:8000
+  
+  # Frontend React App (Served statically or via dev server for now)
+  - hostname: app.yourdomain.com
+    service: http://localhost:3000
+
+  # Catch-all rule (Required)
+  - service: http_status:404
