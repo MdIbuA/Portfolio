@@ -138,10 +138,9 @@ Coming soon! Check back for insights on web development, best practices, and tec
 I'm always interested in connecting with fellow developers and exploring new opportunities. Feel free to reach out!
 
 <div align="center">
-  <p><strong>📧 Email:</strong> your.email@example.com</p>
-  <p><strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a></p>
-  <p><strong>🐦 Twitter:</strong> <a href="https://twitter.com/your-handle">@your-handle</a></p>
-  <p><strong>🌐 Portfolio Website:</strong> <a href="https://your-portfolio.com">your-portfolio.com</a></p>
+  <p><strong>📧 Email:</strong> 2005mohamedibrahim@gmail.com</p>
+  <p><strong>💼 LinkedIn:</strong> <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamedibrahimbinabdullah)"> </a></p>
+  <p><strong>🌐 Portfolio Website:</strong> <a href="[https://your-portfolio.com](https://mdibua.github.io/Portfolio/)"> </a></p>
 </div>
 
 ---
