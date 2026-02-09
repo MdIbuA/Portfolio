@@ -115,12 +115,15 @@ LSTM-based cryptocurrency forecasting system with automated ETL pipelines for co
 ---
 
 ## 📫 Contact
-
 <p align="center">
-  📧 <strong>Email:</strong> 2005mohamedibrahim@gmail.com <br/>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/mohamedibrahimbinabdullah">Profile</a> <br/>
-  🌐 <strong>Portfolio:</strong> <a href="https://mdibua.github.io/Portfolio/">Website</a>
+  📧 <strong>Email:</strong>
+  <a href="mailto:2005mohamedibrahim@gmail.com">2005mohamedibrahim@gmail.com</a><br/>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/mohamedibrahimbinabdullah">Profile</a><br/>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://mdibua.github.io/Portfolio/">Website</a>
 </p>
+
 
 ---
 
