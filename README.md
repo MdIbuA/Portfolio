@@ -88,9 +88,12 @@ LSTM-based cryptocurrency forecasting system with automated ETL pipelines for co
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdIbuA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
+<!-- 
+< p align = "center" >
+< img src = "https://github-readme-stats.vercel.app/api?username=MdIbuA & show_icons=true & theme=tokyonight & hide_border=true & rank_icon=github" />
+</ p > 
+-->
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MdIbuA&theme=tokyonight&hide_border=true" />
