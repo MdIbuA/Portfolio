@@ -94,9 +94,19 @@ Automated ETL pipelines ingest multi-source data for **continuous model retraini
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdIbuA&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdIbuA&layout=compact&theme=dark" alt="Top Languages" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=MdIbuA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="165"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=MdIbuA&theme=tokyonight&hide_border=true"
+  height="165"
+/>
+
 </div>
+
 
 ---
 
