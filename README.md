@@ -117,7 +117,7 @@ LSTM-based cryptocurrency forecasting system with automated ETL pipelines for co
 ## 📫 Contact
 <p align="center">
   📧 <strong>Email:</strong>
-  <a href="mailto:2005mohamedibrahim@gmail.com">2005mohamedibrahim@gmail.com</a><br/>
+  <a href="mailto:2005mohamedibrahim@gmail.com">Mohamed Ibrahim</a><br/>
   💼 <strong>LinkedIn:</strong>
   <a href="https://www.linkedin.com/in/mohamedibrahimbinabdullah">Profile</a><br/>
   🌐 <strong>Portfolio:</strong>
